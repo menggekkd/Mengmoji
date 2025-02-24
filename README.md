@@ -5,7 +5,7 @@ I created some emojis using simple gradients and basic borderless geometric shap
 
 Now you can download them for free!
 
-Ps: Mengmoji is licensed under CC BY-NC-ND 4.0. If you wish to use it for your own work, please follow the terms of this license.
+Ps: Mengmoji is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en). If you wish to use it for your own work, please follow the terms of this license.
 
 ---
 
@@ -13,4 +13,4 @@ Ps: Mengmoji is licensed under CC BY-NC-ND 4.0. If you wish to use it for your o
 
 现在你可以免费下载它们！
 
-Ps: Mengmoji 使用了 CC BY-NC-ND 4.0 许可证，如果你要用于自己的作品，请遵循该许可证规则。
+Ps: Mengmoji 使用了 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans) 许可证，如果你要用于自己的作品，请遵循该许可证规则。
